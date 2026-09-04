@@ -1,0 +1,59 @@
+about:
+  description: Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed
+  license: MIT
+  homepage: https://gfazioli.github.io/octoscope
+  head: 30cf8ce
+  archived: false
+  latestVersion: v0.31.0
+  collectedAt: 2026-09-04T04:18:24Z
+timeline:
+  created: 2026-04-21
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 64
+  watcher: 0
+  fork: 1
+  release: 42
+  contributor: 2
+  pullRequest: 3
+  issue: 61
+language:
+  Go: 1457412
+  Tape: 23478
+  Makefile: 3024
+  Dockerfile: 2465
+totalLine: 1486379
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 20
+    openPR: 0
+    closedIssue: 3
+    openIssue: 4
+    commit: 71
+  last90d:
+    since: 2026-06-06
+    release: 19
+    mergedPR: 74
+    openPR: 0
+    closedIssue: 35
+    openIssue: 20
+    commit: 233
+  last180d:
+    since: 2026-03-08
+    release: 42
+    mergedPR: 84
+    openPR: 0
+    closedIssue: 41
+    openIssue: 20
+    commit: 375
+  last360d:
+    since: 2025-09-09
+    release: 42
+    mergedPR: 84
+    openPR: 0
+    closedIssue: 41
+    openIssue: 20
+    commit: 375
