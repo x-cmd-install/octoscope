@@ -2,13 +2,13 @@ about:
   description: "Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed"
   license: MIT
   homepage: https://gfazioli.github.io/octoscope
-  head: 591cd57
+  head: 3e80935
   archived: false
   latestVersion: "v0.32.0"
-  collectedAt: 2026-09-07T05:34:34Z
+  collectedAt: 2026-09-07T19:13:03Z
 timeline:
   created: 2026-04-21
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-06
 popularity:
   star: 64
@@ -32,7 +32,7 @@ recent:
     openPR: 0
     closedIssue: 4
     openIssue: 2
-    commit: 77
+    commit: 78
   last60d:
     since: 2026-07-09
     release: 12
@@ -40,7 +40,7 @@ recent:
     openPR: 0
     closedIssue: 32
     openIssue: 17
-    commit: 168
+    commit: 169
   last90d:
     since: 2026-06-09
     release: 20
@@ -48,7 +48,7 @@ recent:
     openPR: 0
     closedIssue: 38
     openIssue: 17
-    commit: 230
+    commit: 231
   last180d:
     since: 2026-03-11
     release: 44
@@ -56,7 +56,7 @@ recent:
     openPR: 0
     closedIssue: 44
     openIssue: 17
-    commit: 391
+    commit: 392
   last360d:
     since: 2025-09-12
     release: 44
@@ -64,7 +64,7 @@ recent:
     openPR: 0
     closedIssue: 44
     openIssue: 17
-    commit: 391
+    commit: 392
   last720d:
     since: 2024-09-17
     release: 44
@@ -72,17 +72,17 @@ recent:
     openPR: 0
     closedIssue: 44
     openIssue: 17
-    commit: 391
+    commit: 392
 total:
   release: 44
   mergedPR: 90
   openPR: 0
   closedIssue: 44
   openIssue: 17
-  commit: 391
+  commit: 392
 ---
 path: /home/runner/.x-repo/github.com/gfazioli/octoscope
-collectedAt: 2026-09-07T05:34:40Z
+collectedAt: 2026-09-07T19:13:06Z
 loc:
   Go:
     code: 28847
@@ -126,19 +126,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 2285
+    comments: 2289
     blanks: 358
     files: 7
 total:
   code: 32139
-  comments: 12931
+  comments: 12935
   blanks: 3754
   files: 169
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:34:42+00:00
+  collectedAt: 2026-09-07T19:13:07+00:00
   platform:
     darwin/arm64:
       name:  octoscope_0.32.0_macOS_arm64.tar.gz
