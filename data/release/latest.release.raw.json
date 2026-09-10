@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 995,
       "digest": "sha256:ee97fc94bd0309e2b1ff6a465313bad3638b21ac57a16bc1b54274ab40a2e6bc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-08T11:55:01Z",
       "updated_at": "2026-09-08T11:55:01Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.33.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 18869104,
       "digest": "sha256:02f18bfc43c24d2d13643b31711631e13c69f43fd50b671c302db2e629171318",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-08T11:54:59Z",
       "updated_at": "2026-09-08T11:55:00Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.33.0/octoscope_0.33.0_darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17699330,
       "digest": "sha256:d8a5d3ec7b6f57d62b9bacf022bcb2952da766aedffeeb5e53bfded01b75612b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-08T11:54:59Z",
       "updated_at": "2026-09-08T11:55:00Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.33.0/octoscope_0.33.0_darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 18706592,
       "digest": "sha256:69d0c935d20d3e7b80b0a6d8743429047d51360d0d38c00da9d769ca7539c08a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-08T11:54:57Z",
       "updated_at": "2026-09-08T11:54:59Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.33.0/octoscope_0.33.0_linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17498272,
       "digest": "sha256:3e30e69b55d1e08675fc3f7599e9b15d5290160abbca00eddfa8a3de0a2c309b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-08T11:54:59Z",
       "updated_at": "2026-09-08T11:55:00Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.33.0/octoscope_0.33.0_linux-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6797557,
       "digest": "sha256:b8201f54a2ed52e93a92256eb40cfe0054e9c0024820ba68e426fe8190d677c1",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-08T11:55:00Z",
       "updated_at": "2026-09-08T11:55:01Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.33.0/octoscope_0.33.0_Linux_x86_64.tar.gz"
