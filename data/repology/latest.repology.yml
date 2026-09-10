@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: octoscope-bin
+  binname: octoscope-bin
+  visiblename: octoscope-bin
+  version: 0.33.0
+  origversion: 0.33.0-1
+  status: unique
+  summary: Terminal dashboard for GitHub
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
