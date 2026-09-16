@@ -14,15 +14,15 @@ x install octoscope
 
 ## Code insight
 
-Total: **32,863** lines of code across **166** files in the top 5 languages.
+Total: **33,888** lines of code across **166** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 30,993 | 11,284 | 3,423 | 151 |
-| Html | 1,376 | 23 | 68 | 12 |
+| Go | 31,898 | 11,725 | 3,501 | 151 |
+| Html | 1,386 | 23 | 70 | 12 |
 | JavaScript | 213 | 61 | 21 | 1 |
-| Css | 211 | 62 | 24 | 1 |
-| Makefile | 55 | 28 | 12 | 1 |
+| Css | 211 | 68 | 24 | 1 |
+| Sh | 112 | 118 | 8 | 1 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **32,863** lines of code across **166** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.34.3` (2026-09-13)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-15
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 62 · **Forks**: 1 · **Open issues**: 72 · **Contributors**: 2
+- **Stars**: 62 · **Forks**: 1 · **Open issues**: 79 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 107 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 16 · **Commits**: 459
+- **Releases**: 49 · **Merged PRs**: 111 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 18 · **Commits**: 481
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 11 | 41 | 0 | 15 | 2 | 131 |
-| last60d | 2026-07-17 | 15 | 70 | 0 | 44 | 16 | 236 |
-| 90d | 2026-06-17 | 22 | 92 | 0 | 50 | 16 | 275 |
-| last180d | 2026-03-19 | 49 | 107 | 0 | 56 | 16 | 459 |
-| 360d | 2025-09-20 | 49 | 107 | 0 | 56 | 16 | 459 |
-| last720d | 2024-09-25 | 49 | 107 | 0 | 56 | 16 | 459 |
+| 30d | 2026-08-17 | 11 | 45 | 1 | 14 | 7 | 153 |
+| last60d | 2026-07-18 | 15 | 74 | 1 | 49 | 18 | 258 |
+| 90d | 2026-06-18 | 22 | 96 | 1 | 55 | 18 | 297 |
+| last180d | 2026-03-20 | 49 | 111 | 1 | 61 | 18 | 481 |
+| 360d | 2025-09-21 | 49 | 111 | 1 | 61 | 18 | 481 |
+| last720d | 2024-09-26 | 49 | 111 | 1 | 61 | 18 | 481 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for octoscope lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:09:56Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:28:08Z._
