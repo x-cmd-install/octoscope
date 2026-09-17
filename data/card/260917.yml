@@ -1,0 +1,144 @@
+about:
+  description: "Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed"
+  license: MIT
+  homepage: https://gfazioli.github.io/octoscope
+  head: 1b9018b
+  archived: false
+  latestVersion: "v0.35.0"
+  latestRelease: "v0.35.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-17T06:12:22Z
+timeline:
+  created: 2026-04-21
+  lastCommit: 2026-09-16
+  lastVersion: 2026-09-16
+  lastRelease: 2026-09-16
+  lastPrerelease: 
+popularity:
+  star: 62
+  watcher: 0
+  fork: 1
+  release: 50
+  contributor: 2
+  pullRequest: 117
+  issue: 80
+language:
+  Go: 1757013
+  Tape: 23478
+  Shell: 11529
+  Makefile: 3024
+  Dockerfile: 2465
+totalBytes: 1797509
+recent:
+  last30d:
+    since: 2026-08-18
+    release: 12
+    mergedPR: 47
+    openPR: 1
+    closedIssue: 15
+    openIssue: 7
+    commit: 164
+  last60d:
+    since: 2026-07-19
+    release: 16
+    mergedPR: 76
+    openPR: 1
+    closedIssue: 50
+    openIssue: 18
+    commit: 269
+  last90d:
+    since: 2026-06-19
+    release: 23
+    mergedPR: 98
+    openPR: 1
+    closedIssue: 56
+    openIssue: 18
+    commit: 308
+  last180d:
+    since: 2026-03-21
+    release: 50
+    mergedPR: 113
+    openPR: 1
+    closedIssue: 62
+    openIssue: 18
+    commit: 492
+  last360d:
+    since: 2025-09-22
+    release: 50
+    mergedPR: 113
+    openPR: 1
+    closedIssue: 62
+    openIssue: 18
+    commit: 492
+  last720d:
+    since: 2024-09-27
+    release: 50
+    mergedPR: 113
+    openPR: 1
+    closedIssue: 62
+    openIssue: 18
+    commit: 492
+total:
+  release: 50
+  mergedPR: 113
+  openPR: 1
+  closedIssue: 62
+  openIssue: 18
+  commit: 492
+---
+path: /home/runner/.x-repo/github.com/gfazioli/octoscope
+collectedAt: 2026-09-17T06:12:27Z
+loc:
+  Go:
+    code: 32474
+    comments: 12077
+    blanks: 3538
+    files: 151
+  Html:
+    code: 1387
+    comments: 23
+    blanks: 70
+    files: 12
+  JavaScript:
+    code: 213
+    comments: 61
+    blanks: 21
+    files: 1
+  Css:
+    code: 211
+    comments: 68
+    blanks: 24
+    files: 1
+  Sh:
+    code: 112
+    comments: 118
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 55
+    comments: 28
+    blanks: 12
+    files: 1
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 4
+    comments: 41
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2933
+    blanks: 448
+    files: 8
+total:
+  code: 35915
+  comments: 15649
+  blanks: 4227
+  files: 177
+---
+
+---
