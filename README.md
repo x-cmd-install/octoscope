@@ -14,12 +14,12 @@ x install octoscope
 
 ## Code insight
 
-Total: **33,888** lines of code across **166** files in the top 5 languages.
+Total: **34,465** lines of code across **166** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 31,898 | 11,725 | 3,501 | 151 |
-| Html | 1,386 | 23 | 70 | 12 |
+| Go | 32,474 | 12,077 | 3,538 | 151 |
+| Html | 1,387 | 23 | 70 | 12 |
 | JavaScript | 213 | 61 | 21 | 1 |
 | Css | 211 | 68 | 24 | 1 |
 | Sh | 112 | 118 | 8 | 1 |
@@ -32,44 +32,44 @@ Total: **33,888** lines of code across **166** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.34.3` (2026-09-13)
-- **Last commit**: 2026-09-15
+- **Latest**: `v0.35.0` (2026-09-16)
+- **Last commit**: 2026-09-16
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 62 · **Forks**: 1 · **Open issues**: 79 · **Contributors**: 2
+- **Stars**: 62 · **Forks**: 1 · **Open issues**: 80 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 111 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 18 · **Commits**: 481
+- **Releases**: 50 · **Merged PRs**: 113 · **Open PRs**: 1 · **Closed issues**: 62 · **Open issues**: 18 · **Commits**: 492
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 11 | 45 | 1 | 14 | 7 | 153 |
-| last60d | 2026-07-18 | 15 | 74 | 1 | 49 | 18 | 258 |
-| 90d | 2026-06-18 | 22 | 96 | 1 | 55 | 18 | 297 |
-| last180d | 2026-03-20 | 49 | 111 | 1 | 61 | 18 | 481 |
-| 360d | 2025-09-21 | 49 | 111 | 1 | 61 | 18 | 481 |
-| last720d | 2024-09-26 | 49 | 111 | 1 | 61 | 18 | 481 |
+| 30d | 2026-08-18 | 12 | 47 | 1 | 15 | 7 | 164 |
+| last60d | 2026-07-19 | 16 | 76 | 1 | 50 | 18 | 269 |
+| 90d | 2026-06-19 | 23 | 98 | 1 | 56 | 18 | 308 |
+| last180d | 2026-03-21 | 50 | 113 | 1 | 62 | 18 | 492 |
+| 360d | 2025-09-22 | 50 | 113 | 1 | 62 | 18 | 492 |
+| last720d | 2024-09-27 | 50 | 113 | 1 | 62 | 18 | 492 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/checksums.txt) | 995 B | `other` |
-| [octoscope_0.34.3_darwin-amd64](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_darwin-amd64) | 18.2 MiB | `native/darwin/x64` |
-| [octoscope_0.34.3_darwin-arm64](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_darwin-arm64) | 17.0 MiB | `native/darwin/arm64` |
-| [octoscope_0.34.3_linux-amd64](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_linux-amd64) | 17.8 MiB | `native/linux/x64` |
-| [octoscope_0.34.3_linux-arm64](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_linux-arm64) | 16.7 MiB | `native/linux/arm64` |
-| [octoscope_0.34.3_Linux_arm64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_Linux_arm64.tar.gz) | 5.9 MiB | `native/linux/arm64` |
-| [octoscope_0.34.3_Linux_x86_64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_Linux_x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
-| [octoscope_0.34.3_macOS_arm64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_macOS_arm64.tar.gz) | 6.1 MiB | `native/darwin/arm64` |
-| [octoscope_0.34.3_macOS_x86_64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_macOS_x86_64.tar.gz) | 6.7 MiB | `native/darwin/x64` |
-| [octoscope_0.34.3_windows-amd64.exe](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_windows-amd64.exe) | 18.3 MiB | `native/win/x64` |
-| [octoscope_0.34.3_Windows_x86_64.zip](https://github.com/gfazioli/octoscope/releases/download/v0.34.3/octoscope_0.34.3_Windows_x86_64.zip) | 6.6 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/checksums.txt) | 995 B | `other` |
+| [octoscope_0.35.0_darwin-amd64](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_darwin-amd64) | 18.2 MiB | `native/darwin/x64` |
+| [octoscope_0.35.0_darwin-arm64](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_darwin-arm64) | 17.1 MiB | `native/darwin/arm64` |
+| [octoscope_0.35.0_linux-amd64](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_linux-amd64) | 17.9 MiB | `native/linux/x64` |
+| [octoscope_0.35.0_linux-arm64](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_linux-arm64) | 16.7 MiB | `native/linux/arm64` |
+| [octoscope_0.35.0_Linux_arm64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_Linux_arm64.tar.gz) | 5.9 MiB | `native/linux/arm64` |
+| [octoscope_0.35.0_Linux_x86_64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_Linux_x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
+| [octoscope_0.35.0_macOS_arm64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_macOS_arm64.tar.gz) | 6.1 MiB | `native/darwin/arm64` |
+| [octoscope_0.35.0_macOS_x86_64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_macOS_x86_64.tar.gz) | 6.7 MiB | `native/darwin/x64` |
+| [octoscope_0.35.0_windows-amd64.exe](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_windows-amd64.exe) | 18.3 MiB | `native/win/x64` |
+| [octoscope_0.35.0_Windows_x86_64.zip](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_Windows_x86_64.zip) | 6.7 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for octoscope lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:28:08Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:12:35Z._
