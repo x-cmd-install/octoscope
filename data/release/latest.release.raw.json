@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6812543,
       "digest": "sha256:b41fc923552285b51ffb7a837faef91840367276db6910e182a055ca01cb7a96",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-16T07:06:00Z",
       "updated_at": "2026-09-16T07:06:01Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_Linux_x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6404563,
       "digest": "sha256:20f0f77005d35fc9b5346397d3d0eea91a17485c03544cfaaf50359c0d5ca9cf",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-16T07:06:00Z",
       "updated_at": "2026-09-16T07:06:01Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_macOS_arm64.tar.gz"
