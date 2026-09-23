@@ -4,7 +4,7 @@
 
 Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed
 
-[![x-cmd/install — octoscope Code Quality Monitoring Repo Card](https://repo.x-cmd.io/octoscope.svg)](https://x-cmd.com/install/octoscope)
+[![x-cmd/install — octoscope Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/octoscope.svg)](https://x-cmd.com/install/octoscope)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **34,667** lines of code across **166** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 11 | 43 | 1 | 16 | 6 | 168 |
-| last60d | 2026-07-24 | 16 | 77 | 1 | 51 | 17 | 272 |
-| 90d | 2026-06-24 | 21 | 90 | 1 | 57 | 17 | 306 |
-| last180d | 2026-03-26 | 50 | 114 | 1 | 63 | 17 | 496 |
-| 360d | 2025-09-27 | 50 | 114 | 1 | 63 | 17 | 496 |
-| last720d | 2024-10-02 | 50 | 114 | 1 | 63 | 17 | 496 |
+| 30d | 2026-08-24 | 11 | 43 | 1 | 16 | 6 | 168 |
+| last60d | 2026-07-25 | 16 | 77 | 1 | 51 | 17 | 272 |
+| 90d | 2026-06-25 | 21 | 90 | 1 | 51 | 17 | 306 |
+| last180d | 2026-03-27 | 50 | 114 | 1 | 63 | 17 | 496 |
+| 360d | 2025-09-28 | 50 | 114 | 1 | 63 | 17 | 496 |
+| last720d | 2024-10-03 | 50 | 114 | 1 | 63 | 17 | 496 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for octoscope lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:03:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:14:51Z._

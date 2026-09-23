@@ -4,7 +4,7 @@
 
 Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed
 
-[![x-cmd/install — octoscope Code Quality Monitoring Repo Card](https://repo.x-cmd.io/octoscope.svg?lang=zh)](https://x-cmd.com/install/octoscope)
+[![x-cmd/install — octoscope Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/octoscope.svg?lang=zh)](https://x-cmd.com/install/octoscope)
 
 ## 安装
 
@@ -48,12 +48,12 @@ x install octoscope
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 11 | 43 | 1 | 16 | 6 | 168 |
-| last60d | 2026-07-24 | 16 | 77 | 1 | 51 | 17 | 272 |
-| 90d | 2026-06-24 | 21 | 90 | 1 | 57 | 17 | 306 |
-| last180d | 2026-03-26 | 50 | 114 | 1 | 63 | 17 | 496 |
-| 360d | 2025-09-27 | 50 | 114 | 1 | 63 | 17 | 496 |
-| last720d | 2024-10-02 | 50 | 114 | 1 | 63 | 17 | 496 |
+| 30d | 2026-08-24 | 11 | 43 | 1 | 16 | 6 | 168 |
+| last60d | 2026-07-25 | 16 | 77 | 1 | 51 | 17 | 272 |
+| 90d | 2026-06-25 | 21 | 90 | 1 | 51 | 17 | 306 |
+| last180d | 2026-03-27 | 50 | 114 | 1 | 63 | 17 | 496 |
+| 360d | 2025-09-28 | 50 | 114 | 1 | 63 | 17 | 496 |
+| last720d | 2024-10-03 | 50 | 114 | 1 | 63 | 17 | 496 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ octoscope 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:03:05Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:14:52Z._
