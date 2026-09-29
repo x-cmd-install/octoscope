@@ -14,13 +14,13 @@ x install octoscope
 
 ## 代码洞察
 
-合计: **34,667** 行代码（覆盖前 5 种语言、共 **166** 个文件）。
+合计: **36,382** 行代码（覆盖前 5 种语言、共 **171** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 32,676 | 12,215 | 3,552 | 151 |
-| Html | 1,387 | 23 | 70 | 12 |
-| JavaScript | 213 | 61 | 21 | 1 |
+| Go | 33,744 | 12,493 | 3,644 | 155 |
+| Html | 1,625 | 23 | 60 | 12 |
+| JavaScript | 622 | 172 | 65 | 2 |
 | Css | 211 | 68 | 24 | 1 |
 | Sh | 112 | 118 | 8 | 1 |
 
@@ -32,44 +32,44 @@ x install octoscope
 
 ## 发布
 
-- **最新版本**: `v0.35.0` (2026-09-16)
-- **最近提交**: 2026-09-17
+- **最新版本**: `v0.36.0` (2026-09-28)
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 66 · **Fork**: 1 · **开放 issue**: 80 · **贡献者**: 2
+- **Star**: 67 · **Fork**: 1 · **开放 issue**: 81 · **贡献者**: 2
 
 ## 累计统计
 
-- **发布数**: 50 · **已合并 PR**: 114 · **开放 PR**: 1 · **已关闭 issue**: 63 · **开放 issue**: 17 · **提交数**: 496
+- **发布数**: 51 · **已合并 PR**: 118 · **开放 PR**: 1 · **已关闭 issue**: 64 · **开放 issue**: 17 · **提交数**: 515
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 11 | 41 | 1 | 16 | 6 | 121 |
-| last60d | 2026-07-30 | 16 | 64 | 1 | 30 | 7 | 207 |
-| 90d | 2026-06-30 | 20 | 87 | 1 | 51 | 17 | 293 |
-| last180d | 2026-04-01 | 50 | 114 | 1 | 63 | 17 | 496 |
-| 360d | 2025-10-03 | 50 | 114 | 1 | 63 | 17 | 496 |
-| last720d | 2024-10-08 | 50 | 114 | 1 | 63 | 17 | 496 |
+| 30d | 2026-08-30 | 12 | 45 | 1 | 17 | 6 | 140 |
+| last60d | 2026-07-31 | 16 | 65 | 1 | 31 | 6 | 226 |
+| 90d | 2026-07-01 | 21 | 91 | 1 | 52 | 17 | 312 |
+| last180d | 2026-04-02 | 51 | 118 | 1 | 64 | 17 | 515 |
+| 360d | 2025-10-04 | 51 | 118 | 1 | 64 | 17 | 515 |
+| last720d | 2024-10-09 | 51 | 118 | 1 | 64 | 17 | 515 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/checksums.txt) | 995 B | `other` |
-| [octoscope_0.35.0_darwin-amd64](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_darwin-amd64) | 18.2 MiB | `native/darwin/x64` |
-| [octoscope_0.35.0_darwin-arm64](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_darwin-arm64) | 17.1 MiB | `native/darwin/arm64` |
-| [octoscope_0.35.0_linux-amd64](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_linux-amd64) | 17.9 MiB | `native/linux/x64` |
-| [octoscope_0.35.0_linux-arm64](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_linux-arm64) | 16.7 MiB | `native/linux/arm64` |
-| [octoscope_0.35.0_Linux_arm64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_Linux_arm64.tar.gz) | 5.9 MiB | `native/linux/arm64` |
-| [octoscope_0.35.0_Linux_x86_64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_Linux_x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
-| [octoscope_0.35.0_macOS_arm64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_macOS_arm64.tar.gz) | 6.1 MiB | `native/darwin/arm64` |
-| [octoscope_0.35.0_macOS_x86_64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_macOS_x86_64.tar.gz) | 6.7 MiB | `native/darwin/x64` |
-| [octoscope_0.35.0_windows-amd64.exe](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_windows-amd64.exe) | 18.3 MiB | `native/win/x64` |
-| [octoscope_0.35.0_Windows_x86_64.zip](https://github.com/gfazioli/octoscope/releases/download/v0.35.0/octoscope_0.35.0_Windows_x86_64.zip) | 6.7 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/checksums.txt) | 995 B | `other` |
+| [octoscope_0.36.0_darwin-amd64](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_darwin-amd64) | 18.2 MiB | `native/darwin/x64` |
+| [octoscope_0.36.0_darwin-arm64](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_darwin-arm64) | 17.1 MiB | `native/darwin/arm64` |
+| [octoscope_0.36.0_linux-amd64](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_linux-amd64) | 17.9 MiB | `native/linux/x64` |
+| [octoscope_0.36.0_linux-arm64](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_linux-arm64) | 16.8 MiB | `native/linux/arm64` |
+| [octoscope_0.36.0_Linux_arm64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_Linux_arm64.tar.gz) | 5.9 MiB | `native/linux/arm64` |
+| [octoscope_0.36.0_Linux_x86_64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_Linux_x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
+| [octoscope_0.36.0_macOS_arm64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_macOS_arm64.tar.gz) | 6.1 MiB | `native/darwin/arm64` |
+| [octoscope_0.36.0_macOS_x86_64.tar.gz](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_macOS_x86_64.tar.gz) | 6.7 MiB | `native/darwin/x64` |
+| [octoscope_0.36.0_windows-amd64.exe](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_windows-amd64.exe) | 18.3 MiB | `native/win/x64` |
+| [octoscope_0.36.0_Windows_x86_64.zip](https://github.com/gfazioli/octoscope/releases/download/v0.36.0/octoscope_0.36.0_Windows_x86_64.zip) | 6.7 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -80,4 +80,4 @@ octoscope 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T06:17:29Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:40:04Z._
