@@ -33,27 +33,27 @@ Total: **44,411** lines of code across **212** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.39.0` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-15
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 68 · **Forks**: 1 · **Open issues**: 87 · **Contributors**: 2
+- **Stars**: 69 · **Forks**: 1 · **Open issues**: 87 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 149 · **Open PRs**: 0 · **Closed issues**: 78 · **Open issues**: 9 · **Commits**: 632
+- **Releases**: 55 · **Merged PRs**: 152 · **Open PRs**: 0 · **Closed issues**: 78 · **Open issues**: 9 · **Commits**: 635
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 6 | 42 | 0 | 12 | 3 | 136 |
-| last60d | 2026-08-15 | 17 | 83 | 0 | 28 | 4 | 318 |
-| 90d | 2026-07-16 | 21 | 112 | 0 | 66 | 9 | 409 |
-| last180d | 2026-04-17 | 55 | 149 | 0 | 78 | 9 | 632 |
-| 360d | 2025-10-19 | 55 | 149 | 0 | 78 | 9 | 632 |
-| last720d | 2024-10-24 | 55 | 149 | 0 | 78 | 9 | 632 |
+| 30d | 2026-09-15 | 6 | 40 | 0 | 6 | 3 | 139 |
+| last60d | 2026-08-16 | 17 | 86 | 0 | 28 | 4 | 321 |
+| 90d | 2026-07-17 | 21 | 115 | 0 | 66 | 9 | 412 |
+| last180d | 2026-04-18 | 55 | 152 | 0 | 78 | 9 | 635 |
+| 360d | 2025-10-20 | 55 | 152 | 0 | 78 | 9 | 635 |
+| last720d | 2024-10-25 | 55 | 152 | 0 | 78 | 9 | 635 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for octoscope lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:48:09Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:28:39Z._
