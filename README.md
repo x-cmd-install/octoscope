@@ -38,22 +38,22 @@ Total: **44,411** lines of code across **212** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 69 · **Forks**: 1 · **Open issues**: 87 · **Contributors**: 2
+- **Stars**: 70 · **Forks**: 1 · **Open issues**: 87 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 152 · **Open PRs**: 0 · **Closed issues**: 78 · **Open issues**: 9 · **Commits**: 635
+- **Releases**: 55 · **Merged PRs**: 153 · **Open PRs**: 0 · **Closed issues**: 78 · **Open issues**: 9 · **Commits**: 636
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 6 | 40 | 0 | 6 | 3 | 139 |
-| last60d | 2026-08-16 | 17 | 86 | 0 | 28 | 4 | 321 |
-| 90d | 2026-07-17 | 21 | 115 | 0 | 66 | 9 | 412 |
-| last180d | 2026-04-18 | 55 | 152 | 0 | 78 | 9 | 635 |
-| 360d | 2025-10-20 | 55 | 152 | 0 | 78 | 9 | 635 |
-| last720d | 2024-10-25 | 55 | 152 | 0 | 78 | 9 | 635 |
+| 30d | 2026-09-16 | 6 | 39 | 0 | 4 | 3 | 140 |
+| last60d | 2026-08-17 | 17 | 87 | 0 | 25 | 4 | 322 |
+| 90d | 2026-07-18 | 21 | 116 | 0 | 66 | 9 | 413 |
+| last180d | 2026-04-19 | 55 | 153 | 0 | 78 | 9 | 636 |
+| 360d | 2025-10-21 | 55 | 153 | 0 | 78 | 9 | 636 |
+| last720d | 2024-10-26 | 55 | 153 | 0 | 78 | 9 | 636 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for octoscope lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:28:39Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:28:52Z._
