@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 995,
       "digest": "sha256:f922f2b288c75417ebc8502c6f7d7761c68bfa765667794b6f44099bbc481b33",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-13T08:50:34Z",
       "updated_at": "2026-10-13T08:50:35Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.39.0/checksums.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6876629,
       "digest": "sha256:1eae557acc85f7f965644a302ea728d833bb381beb2316d12e2338a580c36878",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-13T08:50:34Z",
       "updated_at": "2026-10-13T08:50:35Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.39.0/octoscope_0.39.0_Linux_x86_64.tar.gz"
