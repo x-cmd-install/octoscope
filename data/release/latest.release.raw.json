@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6878402,
       "digest": "sha256:fd4c22a9d25a4a2c861f690868add80e0c47aca6e9cafd56400d545b534c0162",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-04T08:38:26Z",
       "updated_at": "2026-11-04T08:38:26Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.40.0/octoscope_0.40.0_Linux_x86_64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 19403264,
       "digest": "sha256:391235fae0415b119026c117a9ce399ddf8d1d7159dd8b0bba32686dcf529f6f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-04T08:38:24Z",
       "updated_at": "2026-11-04T08:38:26Z",
       "browser_download_url": "https://github.com/gfazioli/octoscope/releases/download/v0.40.0/octoscope_0.40.0_windows-amd64.exe"
