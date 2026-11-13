@@ -14,12 +14,12 @@ x install octoscope
 
 ## Code insight
 
-Total: **46,716** lines of code across **220** files in the top 5 languages.
+Total: **46,717** lines of code across **220** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 43,315 | 14,506 | 4,368 | 201 |
-| Html | 1,783 | 47 | 80 | 14 |
+| Html | 1,784 | 47 | 80 | 14 |
 | JavaScript | 1,156 | 376 | 105 | 2 |
 | Css | 273 | 111 | 30 | 2 |
 | Sh | 112 | 118 | 8 | 1 |
@@ -33,7 +33,7 @@ Total: **46,716** lines of code across **220** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.41.1` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 - **Assets in release**: 11
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **46,716** lines of code across **220** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 169 · **Open PRs**: 0 · **Closed issues**: 83 · **Open issues**: 8 · **Commits**: 692
+- **Releases**: 58 · **Merged PRs**: 171 · **Open PRs**: 0 · **Closed issues**: 83 · **Open issues**: 8 · **Commits**: 694
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 4 | 20 | 0 | 4 | 0 | 56 |
-| last60d | 2026-09-13 | 12 | 62 | 0 | 17 | 2 | 210 |
-| 90d | 2026-08-14 | 20 | 103 | 0 | 33 | 3 | 378 |
-| last180d | 2026-05-16 | 41 | 167 | 0 | 77 | 8 | 604 |
-| 360d | 2025-11-17 | 58 | 169 | 0 | 83 | 8 | 692 |
-| last720d | 2024-11-22 | 58 | 169 | 0 | 83 | 8 | 692 |
+| 30d | 2026-10-14 | 3 | 20 | 0 | 4 | 0 | 58 |
+| last60d | 2026-09-14 | 9 | 64 | 0 | 17 | 2 | 212 |
+| 90d | 2026-08-15 | 20 | 105 | 0 | 33 | 3 | 380 |
+| last180d | 2026-05-17 | 41 | 169 | 0 | 77 | 8 | 606 |
+| 360d | 2025-11-18 | 58 | 171 | 0 | 83 | 8 | 694 |
+| last720d | 2024-11-23 | 58 | 171 | 0 | 83 | 8 | 694 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for octoscope lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:28:12Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:55:28Z._
