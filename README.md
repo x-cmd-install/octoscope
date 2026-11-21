@@ -48,12 +48,12 @@ Total: **47,172** lines of code across **221** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 5 | 19 | 0 | 4 | 2 | 65 |
-| last60d | 2026-09-21 | 10 | 59 | 0 | 11 | 3 | 209 |
-| 90d | 2026-08-22 | 21 | 103 | 0 | 32 | 4 | 377 |
-| last180d | 2026-05-24 | 42 | 170 | 0 | 82 | 6 | 610 |
-| 360d | 2025-11-25 | 60 | 174 | 0 | 88 | 6 | 705 |
-| last720d | 2024-11-30 | 60 | 174 | 0 | 88 | 6 | 705 |
+| 30d | 2026-10-22 | 5 | 17 | 0 | 4 | 2 | 65 |
+| last60d | 2026-09-22 | 10 | 59 | 0 | 11 | 3 | 209 |
+| 90d | 2026-08-23 | 21 | 103 | 0 | 32 | 4 | 377 |
+| last180d | 2026-05-25 | 42 | 170 | 0 | 82 | 6 | 610 |
+| 360d | 2025-11-26 | 60 | 174 | 0 | 88 | 6 | 705 |
+| last720d | 2024-12-01 | 60 | 174 | 0 | 88 | 6 | 705 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for octoscope lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:51:36Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:51:09Z._
